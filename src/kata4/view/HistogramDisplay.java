@@ -12,7 +12,6 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.DefaultCategoryDataset;
 import org.jfree.ui.ApplicationFrame;
 
-
 public class HistogramDisplay extends ApplicationFrame{
     Histogram<String> histogram = new Histogram<String>();
     

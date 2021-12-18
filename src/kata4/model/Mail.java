@@ -10,4 +10,5 @@ public class Mail {
         String[] domain = cadena.split("@");
         return domain[1];
     }
+    
 }

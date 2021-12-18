@@ -14,4 +14,5 @@ public class MailHistogramBuilder {
         }
         return histogram;
     }
+    
 }
